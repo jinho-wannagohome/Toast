@@ -15,7 +15,7 @@ let package = Package(
         .target(
             name: "Toast",
             path: "Toast",
-            sources: ["UIView+Toast.h", "UIView+Toast.m"]
+            sources: ["Toast"]
         )
     ]
 )
